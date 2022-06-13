@@ -1,6 +1,6 @@
 {
   "name": "react-native-purchasely-amazon",
-  "version": "0.1.0",
+  "version": "2.2.4",
   "description": "Purchasely Amazon In-App Purchases dependency",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

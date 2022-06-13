@@ -1,6 +1,6 @@
 {
   "name": "react-native-purchasely-huawei",
-  "version": "0.1.0",
+  "version": "2.2.4",
   "description": "Purchasely Huawei Mobile Services dependencies",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

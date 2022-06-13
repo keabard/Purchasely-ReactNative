@@ -5,7 +5,7 @@ Purchasely Google Play Billing dependency
 ## Installation
 
 ```sh
-npm install react-native-purchasely-google
+npm install @purchasely/react-native-purchasely-google
 ```
 
 ## Usage
